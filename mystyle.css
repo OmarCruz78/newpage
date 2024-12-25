@@ -25,6 +25,15 @@ header{
 
 }
 
+.aleft{
+
+justify-content: left;    
+}
+.aright{
+
+justify-content: right;    
+}
+
 header h1{
     text-align: center;
     padding: 10px 10px 10px 10px;
